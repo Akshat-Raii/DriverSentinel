@@ -13,7 +13,7 @@ Welcome to the **Driver Sentinel**! This application aims to enhance road safety
 
 A hosted version of the Driver Sentinel app is available at: [Driver Sentinel](https://driversentinel.streamlit.app/)
 <br><br>
-⚠️ Warning: Try to revert to local installation and use of the Streamlit app instead of hosted version as Streamlit cloud doesn't currently supports live webcam features . So you have to run the app locally by following the below mentioned steps
+⚠️ Warning: Try to revert to local installation and use of the Streamlit app instead of hosted version as Streamlit cloud doesn't currently supports live webcam features . So you have to run the app locally by following the below mentioned steps .
 
 ## How to Use 🚀
 
