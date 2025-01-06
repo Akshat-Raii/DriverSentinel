@@ -209,7 +209,7 @@ elif selection == "About Us":
     st.markdown("""
     ## Learn More on GitHub
 
-    You can explore the full source code of the **Driver Sentinel** project on our [GitHub repository](https://github.com/YourUsername/DriverSentinel). The repository includes:
+    You can explore the full source code of the **Driver Sentinel** project on our [GitHub repository](https://github.com/Akshat-Raii/DriverSentinel). The repository includes:
 
     - **Drowsiness Detection**: An AI model for detecting driver drowsiness through real-time video feed.
     - **Seatbelt Detection**: A machine learning model that ensures the driver is wearing a seatbelt while driving.
@@ -219,6 +219,6 @@ elif selection == "About Us":
 
     Feel free to contribute, report issues, or fork the project for your own use. Together, we can make the roads safer!
 
-    [Visit GitHub Repository](https://github.com/YourUsername/DriverSentinel)
+    [Visit GitHub Repository](https://github.com/Akshat-Raii/DriverSentinel)
 """)
 
