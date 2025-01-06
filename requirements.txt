@@ -11,5 +11,4 @@ cvzone
 setuptools 
 wheel
 playsound==1.2.2
-opencv-python
 opencv-python-headless
