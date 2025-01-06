@@ -8,6 +8,7 @@ matplotlib
 streamlit
 ultralytics
 cvzone
+wheel
 playsound==1.0.0
 opencv-python
 opencv-python-headless
