@@ -10,3 +10,4 @@ ultralytics
 cvzone
 playsound
 opencv-python
+opencv-python-headless
