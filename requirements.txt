@@ -8,5 +8,5 @@ matplotlib
 streamlit
 ultralytics
 cvzone
-pygame
+playsound
 opencv-python
