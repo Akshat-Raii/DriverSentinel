@@ -8,6 +8,6 @@ matplotlib
 streamlit
 ultralytics
 cvzone
-playsound
+playsound==1.0.0
 opencv-python
 opencv-python-headless
