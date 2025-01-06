@@ -1,0 +1,12 @@
+scikit-learn
+tensorflow
+keras
+keras-models
+Keras-Preprocessing
+numpy 
+matplotlib.pyplot
+streamlit
+ultralytics
+cvzone
+playsound
+opencv-python
