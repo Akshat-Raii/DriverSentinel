@@ -11,7 +11,7 @@ Welcome to the **Driver Sentinel**! This application aims to enhance road safety
 
 ## Hosted Version 🌐
 
-A hosted version of the Driver Sentinel app is available at: [Driver Sentinel](https://driver-sentinel.streamlit.app/)
+A hosted version of the Driver Sentinel app is available at: [Driver Sentinel](https://driversentinel.streamlit.app/)
 
 ## How to Use 🚀
 
