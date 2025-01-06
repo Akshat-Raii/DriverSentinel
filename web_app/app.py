@@ -155,7 +155,7 @@ selection = st.sidebar.radio("Go to", list(menu.keys()), format_func=lambda x: f
 
 if selection == "Home":
     st.title("Driver Sentinel ")
-    image_path = "data/Cruisin'.gif" 
+    image_path = "/data/Cruisin'.gif" 
     st.image(image_path)
 
     st.markdown("""
