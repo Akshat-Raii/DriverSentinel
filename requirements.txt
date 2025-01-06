@@ -4,7 +4,7 @@ keras
 keras-models
 Keras-Preprocessing
 numpy 
-matplotlib.pyplot
+matplotlib
 streamlit
 ultralytics
 cvzone
